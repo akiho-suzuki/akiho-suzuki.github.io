@@ -17,9 +17,6 @@ redirect_from:
 
 ## Relevant work experience
 ---
-- Casual Academic \| The University of Sydney (2023 - current)
-  - Marking undergraduate student assignments
-
 - Graduate Teaching Assistant \| Royal Northern College of Music (2022 - current)
   - Prepare and deliver lectures for undergraduate and Masters modules on range of topics related to my research including music practice, self-regulated learning, and research methods.
 
@@ -31,9 +28,8 @@ redirect_from:
 ### Research skills
 - Data wrangling and visualisation using R
 - Basic statistical analysis on R, jamovi, SPSS
-- Designing and conducting semi-structured interviews, thematic analysis
+- Conducting interviews and thematic analyses
 - Conducting systematic reviews (PRISMA)
-- Exploratory and confirmatory factor analyses (using R)
 
 ### Other skills
 - Mobile app development using Flutter (Dart)
@@ -60,12 +56,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    -->
-
-## Research funding
----
-- Arts and Humanities Research Council (UK Research and Innovation): doctoral scholarship (2021-2024)
-- North West Consortium Doctoral Training Partnership: Targeted funding "widening participation" (2022-2023)
-
 ## Volunteering and leadership
 ---
 - 2022 - current: PGR representative at Royal Northern College of Music
