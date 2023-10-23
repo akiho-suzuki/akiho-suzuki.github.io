@@ -29,19 +29,39 @@ Suzuki, A., & Mitchell, H. F. (2022). What makes practice perfect? How tertiary 
 
 ## Peer-reviewed conferences
 ---
+### Development and Validation of Self-Regulated Learning in Music Practice (SRL-MP) scale
+
+Suzuki, A. & Wolf, A. (2023, 18-20 October). Development and Validation of Self-Regulated Learning in Music Practice (SRL-MP) scale [Poster presentation]. 2023 SysMus conference, Sheffield, UK.
+
+### Learning to "PractiseWell": Observing piano students' practice to explore the effects of an online intervention
+
+Suzuki, A. & Mitchell, H. (2023, 18-20 October). Learning to "PractiseWell": Observing piano students' practice to explore the effects of an online intervention [Paper presentation]. 2023 SysMus conference, Sheffield, UK.
+
+### Allowing musicians to "flourish": How can we equip musicians with performance science knowledge using social media?
+
+Ruckert-Fagan, C. & Suzuki, A. (2023, 18-20 October). Allowing musicians to "flourish": How can we equip musicians with performance science knowledge using social media? [Paper presentation]. 2023 SysMus conference, Sheffield, UK.
+
+### How to "PractiseWell"? Piloting an online intervention for effective practice
+
+Suzuki, A. & Mitchell, H. (2023, 17-20 August). How to "PractiseWell"? Piloting an online intervention for effective practice [Paper presentation]. 2023 International Symposium on Performance Science, Warsaw, Poland.
+
+### The ‘Flourish’ Project: Translating research knowledge from performance science for musicians using social media.
+
+Suzuki, A. & Ruckert-Fagan, R. (2023, 17-20 August). The ‘Flourish’ Project: Translating research knowledge from performance science for musicians using social media. [Paper presentation]. 2023 International Symposium on Performance Science, Warsaw, Poland.
+
 ### Developing an online intervention on effective practice and performance preparation for conservatoire piano students
 
-Suzuki, Akiho (2023, 11-14 April). Developing an online intervention on effective practice and performance preparation for conservatoire piano students [Paper presentation]. The 13th International Conference for Research in Music Education, online.
+Suzuki, A. (2023, 11-14 April). Developing an online intervention on effective practice and performance preparation for conservatoire piano students [Paper presentation]. The 13th International Conference for Research in Music Education, online.
 
 ### Effective practice and performance preparation interventions for tertiary music students: A systematic review
 
-Suzuki, Akiho (2022, 7-9 September). Effective practice and performance preparation interventions for tertiary music students: A systematic review [Poster presentation]. SysMus conference, Ghent, Belgium.
+Suzuki, A. (2022, 7-9 September). Effective practice and performance preparation interventions for tertiary music students: A systematic review [Poster presentation]. SysMus conference, Ghent, Belgium.
 
 Winner of Best Poster Award \| [See poster](/files/akiho-suzuki-sysmus-poster-2022.png)
 
 ### Interventions designed to improve tertiary music students' practising strategies: A systematic review
 
-Suzuki, Akiho (2022, 2-3 September). Interventions designed to improve tertiary music students' practising strategies: A systematic review [Paper presentation]. SEMPRE 50th anniversary conference, London, UK.
+Suzuki, A. (2022, 2-3 September). Interventions designed to improve tertiary music students' practising strategies: A systematic review [Paper presentation]. SEMPRE 50th anniversary conference, London, UK.
 
 Presentation available on [SEMPRE website](https://sempre.org.uk/50th)
 
