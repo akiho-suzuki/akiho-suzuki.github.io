@@ -17,9 +17,15 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 ---
+### Developing an online intervention to equip tertiary piano students with skills and strategies for effective practice
+
+Suzuki, A., Ginsborg, J., Phillips, M., & Franklin, Z. (in press), Developing an online intervention to equip tertiary piano students with skills and strategies for effective practice <i>Music & Science</i>.
+
 ### Towards effective performance psychology interventions in tertiary music education: an exploration of students’ experiences, attitudes, and preferences
 
-Suzuki, A., & Pitts, S.E. (in press), Towards effective performance psychology interventions in tertiary music education: an exploration of students’ experiences, attitudes, and preferences. <i>Psychology of Music</i>.
+Suzuki, A., & Pitts, S.E. (2023), Towards effective performance psychology interventions in tertiary music education: an exploration of students’ experiences, attitudes, and preferences. <i>Psychology of Music</i>. [https://doi.org/10.1177/03057356231204859](https://doi.org/10.1177/03057356231204859)
+
+[Download the paper here](https://www.researchgate.net/publication/375068366_Toward_effective_performance_psychology_interventions_in_tertiary_music_education_An_exploration_of_students'_experiences_attitudes_and_preferences)
 
 ### What makes practice perfect? How tertiary piano students self-regulate play and non-play strategies for performance success
 

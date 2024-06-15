@@ -33,14 +33,17 @@ redirect_from:
 - Basic statistical analysis on R, jamovi, SPSS
 - Designing and conducting semi-structured interviews, thematic analysis
 - Conducting systematic reviews (PRISMA)
-- Exploratory and confirmatory factor analyses (using R)
+- Developing and validating scales
+- Exploratory factor analysis
+- Structural equation modelling, including ESEM and CFA
 
 ### Other skills
 - Mobile app development using Flutter (Dart)
 - Creating websites using Wordpress, Wix, Jekyll
 - Communicating research findings to non-academic audiences
 - Social media management
-- English (native), Japanese (native), Italian (proficient), Spanish (intermediate), French (beginner)
+- Event management, including organising conferences
+- Languages: English (native), Japanese (native), Italian (proficient), Spanish (intermediate), French (beginner)
 
 <!-- Publications
 ======
@@ -62,13 +65,14 @@ Teaching
    -->
 ## Research funding
 ---
-- Arts and Humanities Research Council (UK Research and Innovation): doctoral scholarship (2021-2024)
-- North West Consortium Doctoral Training Partnership: Targeted funding "widening participation" (2022-2023)
+- Arts and Humanities Research Council (UK Research and Innovation): Doctoral scholarship (2021-2024)
+- North West Consortium Doctoral Training Partnership: Targeted funding "Widening participation" (2022-2023; £5000)
+- North West Consortium Doctoral Training Partnership: Targeted funding "Widening participation" (2023-2024; £5000)
 
 ## Volunteering and leadership
 ---
-- 2022 - current: PGR representative at Royal Northern College of Music
-- 2021 - current: Student representative for the North-West Consortium Doctoral Training Partnership
+- 2022 - 2023: PGR representative at Royal Northern College of Music
+- 2021 - 2024: Student representative for the North-West Consortium Doctoral Training Partnership
 - 2020 - current: Volunteer coordinator at [Wiñason](https://www.winason.com), a Peruvian organisation
 
 ## Awards, prizes, and scholarships
