@@ -45,7 +45,7 @@ Suzuki, A., Ginsborg, J. & Phillips, M. (2024, 3-6 July). Applying the person-ba
 
 Suzuki, A. (2024, 3-6 July). PracLog: A free, open-source mobile application to track musicians' practice sessions [Poster presentation]. 12th Triennial Conference of the European Society of the Cognitive Sciences of Music, York, UK.
 
-[Download the poster here](files/akiho-suzuki-2024-escom-poster.pdf)
+[Download the poster here](https://akihosuzuki.com/files/akiho-suzuki-2024-escom-poster.pdf)
 
 ### Development and Validation of Self-Regulated Learning in Music Practice (SRL-MP) Scale
 
