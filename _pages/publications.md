@@ -19,11 +19,13 @@ author_profile: true
 ---
 ### Developing an online intervention to equip tertiary piano students with skills and strategies for effective practice
 
-Suzuki, A., Ginsborg, J., Phillips, M., & Franklin, Z. (in press), Developing an online intervention to equip tertiary piano students with skills and strategies for effective practice <i>Music & Science</i>.
+Suzuki, A., Ginsborg, J., Phillips, M., & Franklin, Z. (2024), Developing an online intervention to equip tertiary piano students with skills and strategies for effective practice. <i>Music & Science</i>. [https://doi.org/10.1177/20592043241262612](https://doi.org/10.1177/20592043241262612)
+
+[Download the paper here](https://journals.sagepub.com/doi/10.1177/20592043241262612)
 
 ### Towards effective performance psychology interventions in tertiary music education: an exploration of students’ experiences, attitudes, and preferences
 
-Suzuki, A., & Pitts, S.E. (2023), Towards effective performance psychology interventions in tertiary music education: an exploration of students’ experiences, attitudes, and preferences. <i>Psychology of Music</i>. [https://doi.org/10.1177/03057356231204859](https://doi.org/10.1177/03057356231204859)
+Suzuki, A., & Pitts, S.E. (2024), Toward effective performance psychology interventions in tertiary music education: an exploration of students’ experiences, attitudes, and preferences. <i>Psychology of Music</i>, <i>52</i>(4), 438-454. [https://doi.org/10.1177/03057356231204859](https://doi.org/10.1177/03057356231204859)
 
 [Download the paper here](https://www.researchgate.net/publication/375068366_Toward_effective_performance_psychology_interventions_in_tertiary_music_education_An_exploration_of_students'_experiences_attitudes_and_preferences)
 
@@ -35,9 +37,23 @@ Suzuki, A., & Mitchell, H. F. (2022). What makes practice perfect? How tertiary 
 
 ## Peer-reviewed conferences
 ---
-### Development and Validation of Self-Regulated Learning in Music Practice (SRL-MP) scale
+### Applying the person-based approach to design an online intervention on effective practice for tertiary piano students
 
-Suzuki, A. & Wolf, A. (2023, 18-20 October). Development and Validation of Self-Regulated Learning in Music Practice (SRL-MP) scale [Poster presentation]. 2023 SysMus conference, Sheffield, UK.
+Suzuki, A., Ginsborg, J. & Phillips, M. (2024, 3-6 July). Applying the person-based approach to design an online intervention on effective practice for tertiary piano students [Paper presentation]. 12th Triennial Conference of the European Society of the Cognitive Sciences of Music, York, UK.
+
+### PracLog: A free, open-source mobile application to track musicians' practice sessions
+
+Suzuki, A. (2024, 3-6 July). PracLog: A free, open-source mobile application to track musicians' practice sessions [Poster presentation]. 12th Triennial Conference of the European Society of the Cognitive Sciences of Music, York, UK.
+
+[Download the poster here](files/akiho-suzuki-2024-escom-poster.pdf)
+
+### Development and Validation of Self-Regulated Learning in Music Practice (SRL-MP) Scale
+
+Suzuki, A., Wolf, A. & Ginsborg, J. (2024, 3-6 July). Development and Validation of Self-Regulated Learning in Music Practice (SRL-MP) Scale [Paper presentation]. 2024 Australian Music Psychology Society Conference, Melbourne, Australia.
+
+### Development and Validation of Self-Regulated Learning in Music Practice (SRL-MP) Scale
+
+Suzuki, A. & Wolf, A. (2023, 18-20 October). Development and Validation of Self-Regulated Learning in Music Practice (SRL-MP) Scale [Poster presentation]. 2023 SysMus conference, Sheffield, UK.
 
 ### Learning to "PractiseWell": Observing piano students' practice to explore the effects of an online intervention
 
