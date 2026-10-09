@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Akiho Suzuki (she/her)"
   avatar           : "profile.jpg"
-  bio              : "PhD researcher in music psychology"
-  location         : "Manchester/Sydney"
-  employer         :
+  bio              : "Postdoctoral researcher in musicians' health"
+  location         : "Hannover, Germany"
+  employer         : "Hochschule für Musik, Theater und Medien Hannover"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :  "mailto:akiho.suzuki12@gmail.com"
+  googlescholar    :  "https://scholar.google.com/citations?user=-7CKIp4AAAAJ&hl=en"
+  email            :  "mailto:akiho.suzuki@hmtm-hannover.de"
   researchgate     :  "https://www.researchgate.net/profile/Akiho-Suzuki"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "akiho_suzuki12"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

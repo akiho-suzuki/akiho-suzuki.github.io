@@ -7,24 +7,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a music psychology researcher with a passion for supporting musicians' health and wellbeing. I am currently a postdoctoral research fellow at the [Institute for Music physiology and Musicians' Medicine (IMMM)](https://www.immm.hmtm-hannover.de/de/start/) at the Hanover University of Music, Drama and Media, where I conduct research on musicians' performance-related pain. I am also an adjunct researcher at the [Sydney Music, Mind, and Body lab](https://www.sydney.edu.au/music/our-research/cross-disciplinary-research/sydney-music-mind-and-body-lab.html#accordion-30b5f423d2-item-e80875f3e8) at the University of Sydney. 
 
-I am currently undertaking my PhD in music psychology at the Royal Northern College of Music [Centre for Music Performance Research](https://www.rncm.ac.uk/research/research-centres-rncm/centre-for-music-performance-research/) and Manchester Metropolitan University. My AHRC-funded PhD project involves developing and testing an online intervention on effective practice and performance preparation for conservatoire piano students. I am also passionate about making research accessible, and am currently leading [Flourish](https://musiciansflourish.org/), a funded project that aims to communicate research findings from performance science to music students in interesting and engaging ways. I also have a blog (<a href="https://psycformusos.com/" target="_blank">Psyc for Musos</a>) where I write posts with research-based information and tips for performing musicians.
+I initially trained as a classical pianist and completed a Bachelor of Music (Performance) at the Sydney Conservatorium of Music, before completing an MA in Psychology of Music at the University of Sheffield and a PhD at the Royal Northern College of Music, funded by the Arts and Humanities Research Council (AHRC).
 
-## Current projects
-- Developing an online intervention to help conservatoire piano students practise effectively ([Check out the intervention here!](https://practisewell.com))
-- Developing a mobile app to monitor musicians' practice ([PracLog](https://github.com/akiho-suzuki/PracLog/blob/main/README.md))
-- Developing a scale to measure self-regulated practice among musicians
-- Translating research knowledge from music performance science ([Flourish](https://musiciansflourish.org))
+I am passionate about making research findings accessible to musicians, teachers, and clinicans. I am currently the organiser of [Performing Arts Medicine Association (PAMA) journal club](https://artsmed.org/events/pama-journal-club/). During my time as a PhD student, I also co-led [Flourish](https://musiciansflourish.org/), a funded project that aimed to communicate research findings from performance science to music students in interesting and engaging ways.
+
+If I'm not doing research or playing the piano, I like to climb, hike, cook, eat food, and pat cute dogs.
 
 ## Research interests
+My research interests broadly lie in the fields of musicians' health and performance psychology, but I am interested in any research that involves finding ways to support musicians better. Specific areas of interest include:
 
-My research interests broadly lie in the field of music performance psychology, but I am interested in any research that is about finding ways to support musicians better. Specific areas of interest include:
-
+- Musicians' performance-related pain
 - Effective music practice
 - Self-regulated learning
 - Music performance anxiety
-- Musicians' performance-related pain
-- Support and provisions for conservatoire music students
-- Scale development and validation
+- Scale development, validation, and cross-cultural adaptation
 - Intervention development and testing
 - Use of technology to support musicians
+
+## Current projects
+- Developing and evaluating a mobile app (mHealth) intervention for the prevention and management of musicians' playing-related pain ([crescendo](https://crescendo-app.org/))
+- Longitudinal study of factors associated with performance-related pain among tertiary music students
+- Cross-cultural adaptation and validation of the German Musicians' Health Literacy Questionnaire (MHL-Q19)
+
+## Previous projects
+- Developing and evaluating an online intervention to help conservatoire piano students practise effectively ([Check out the intervention here!](https://practisewell.com))
+- Developing a mobile app to monitor musicians' practice ([PracLog](https://github.com/akiho-suzuki/PracLog/blob/main/README.md))
+- Development and validation of a questionnaire to measure self-regulated learning in music practice

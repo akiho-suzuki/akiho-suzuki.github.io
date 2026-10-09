@@ -17,26 +17,50 @@ author_profile: true
 
 ## Peer-reviewed journal articles
 ---
+### Development and Validation of the Self-Regulated Learning in Music Practice Self-Report Scale
+
+Suzuki, A., Wolf, A., & Ginsborg, J. (2026). Development and Validation of the Self-Regulated Learning in Music Practice Self-Report Scale (SRL-MP-SRS).  <i>Psychology of Music</i>. [https://doi.org/10.1177/03057356251410563](https://doi.org/10.1177/03057356251410563)
+
+[Download the paper for free here](https://journals.sagepub.com/doi/10.1177/20592043241262612)
+
+### Effective instrumental practice: The views of conservatoire piano teachers in Australia and the United Kingdom
+
+Suzuki, A., Ginsborg, J., & Phillips, M. (2026). Effective instrumental practice: The views of conservatoire piano teachers in Australia and the United Kingdom. <i>British Journal of Music Education</i>. [https://doi.org/10.1017/S0265051726101089](https://doi.org/10.1017/S0265051726101089)
+
+[Download the paper for free here](https://www.researchgate.net/publication/400586041_Development_and_Validation_of_the_Self-Regulated_Learning_in_Music_Practice_Self-Report_Scale_SRL-MP-SRS)
+
+### Health promotion in tertiary music institutions: A position paper
+
+Matei, R., Ackermann, B., Allen, J., Alpagut, U., Ananda-Owens, K., Araújo, L. S., Arnold, R., Árnason, K., Babyak, T., Baroody, M., Kochem, F. B., Bastepe-Gray, S., Behel, K., Beuschau, K. R., Bidlack, M., Blouin, C., Bull, A., Bush, A., Callan-Harris, S., … Young, B. (2026).  Health promotion in tertiary music institutions: A position paper. <i>Arts Education Policy Review</i>. [ https://doi.org/10.1080/10632913.2026.2720853]( https://doi.org/10.1080/10632913.2026.2720853)
+
+[Download the paper for free here]( https://doi.org/10.1080/10632913.2026.2720853)
+
 ### Developing an online intervention to equip tertiary piano students with skills and strategies for effective practice
 
 Suzuki, A., Ginsborg, J., Phillips, M., & Franklin, Z. (2024), Developing an online intervention to equip tertiary piano students with skills and strategies for effective practice. <i>Music & Science</i>. [https://doi.org/10.1177/20592043241262612](https://doi.org/10.1177/20592043241262612)
 
-[Download the paper here](https://journals.sagepub.com/doi/10.1177/20592043241262612)
+[Download the paper for free here](https://journals.sagepub.com/doi/10.1177/20592043241262612)
 
 ### Towards effective performance psychology interventions in tertiary music education: an exploration of students’ experiences, attitudes, and preferences
 
 Suzuki, A., & Pitts, S.E. (2024), Toward effective performance psychology interventions in tertiary music education: an exploration of students’ experiences, attitudes, and preferences. <i>Psychology of Music</i>, <i>52</i>(4), 438-454. [https://doi.org/10.1177/03057356231204859](https://doi.org/10.1177/03057356231204859)
 
-[Download the paper here](https://www.researchgate.net/publication/375068366_Toward_effective_performance_psychology_interventions_in_tertiary_music_education_An_exploration_of_students'_experiences_attitudes_and_preferences)
+[Download the paper for free here](https://www.researchgate.net/publication/375068366_Toward_effective_performance_psychology_interventions_in_tertiary_music_education_An_exploration_of_students'_experiences_attitudes_and_preferences)
 
 ### What makes practice perfect? How tertiary piano students self-regulate play and non-play strategies for performance success
 
 Suzuki, A., & Mitchell, H. F. (2022). What makes practice perfect? How tertiary piano students self-regulate play and non-play strategies for performance success. <i>Psychology of Music, 50(2)</i>, 611–630. [https://doi.org/10.1177/03057356211010927](https://doi.org/10.1177/03057356211010927)
 
-[Download the paper here](https://www.researchgate.net/publication/351438401_What_makes_practice_perfect_How_tertiary_piano_students_self-regulate_play_and_non-play_strategies_for_performance_success) \| [Read a summary on my blog](https://psycformusos.com/2021/05/08/new-article-what-makes-practice-perfect-how-tertiary-piano-students-self-regulate-play-and-non-play-strategies-for-performance-success/)
+[Download the paper for free here](https://www.researchgate.net/publication/351438401_What_makes_practice_perfect_How_tertiary_piano_students_self-regulate_play_and_non-play_strategies_for_performance_success) \| [Read a summary on my blog](https://psycformusos.com/2021/05/08/new-article-what-makes-practice-perfect-how-tertiary-piano-students-self-regulate-play-and-non-play-strategies-for-performance-success/)
 
 ## Peer-reviewed conferences
 ---
+### Developing pain science education for musicians
+Suzuki, A. & Lee, A. (2026, 10-12 April). AHow should we teach musicians about pain? Developing pain science education for the management of performance-related pain [Paper presentation]. Österreichische Gesellschaft für Musik und Medizin (ÖGfMM) Symposium 2026, Salzburg, Austria.
+
+### How should we teach musicians about pain? Developing pain science education for the management of performance-related pain
+Suzuki, A. & Lee, A. (2025, 17-19 September). AHow should we teach musicians about pain? Developing pain science education for the management of performance-related pain [Paper presentation]. Musicians’ Health Conference 2025, Odense, Denmark.
+
 ### Applying the person-based approach to design an online intervention on effective practice for tertiary piano students
 
 Suzuki, A., Ginsborg, J. & Phillips, M. (2024, 3-6 July). Applying the person-based approach to design an online intervention on effective practice for tertiary piano students [Paper presentation]. 12th Triennial Conference of the European Society of the Cognitive Sciences of Music, York, UK.
@@ -89,5 +113,8 @@ Presentation available on [SEMPRE website](https://sempre.org.uk/50th)
 
 ## Other talks
 ---
+### Developing digital tools to support and empower musicians
+Centre for Music and Science Seminar, University of Cambridge | 4th March 2026
+
 ### How can pianists practise effectively? Findings from a study with conservatoire piano students
 Presented at a webinar for the Frances Clark Center (US) | 11th November 2022
