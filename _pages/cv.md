@@ -13,15 +13,17 @@ redirect_from:
 ---
 * Bachelor of Music (Performance), Sydney Conservatorium of Music, the University of Sydney (Graduated with First Class Honours, 2018)
 * MA in Psychology of Music, the University of Sheffield (Graduated with Distinction, 2021)
-* Ph.D in Music Psychology, Royal Northern College of Music & Manchester Metropolitan University (expected completion: 2024)
+* PhD in Music Psychology, Royal Northern College of Music & Manchester Metropolitan University (2026)
 
 ## Relevant work experience
 ---
-- Casual Academic \| The University of Sydney (2023 - current)
-  - Marking undergraduate student assignments
+- Postdoctoral research fellow \| Hochschule für Musik, Theater und Medien Hannover (2025 - current)
 
-- Graduate Teaching Assistant \| Royal Northern College of Music (2022 - current)
-  - Prepare and deliver lectures for undergraduate and Masters modules on range of topics related to my research including music practice, self-regulated learning, and research methods.
+- Casual academic \| The University of Sydney (2023)
+  - Assessment of undergraduate student assignments
+
+- Graduate teaching assistant \| Royal Northern College of Music (2022 - 2024)
+  - Prepared and delivered lectures for undergraduate and Masters modules on range of topics related to my research including music practice, self-regulated learning, and research methods.
 
 - Freelance pianist \| Sydney, Australia (2010 - 2019)
   - Performed as a soloist, a chamber musician, and an accompanist in a variety of contexts including concerts, exams, and social events. Taught children and adults at beginner and intermediate levels.
@@ -29,13 +31,15 @@ redirect_from:
 ## Skills
 ---
 ### Research skills
+- Intervention development, especially using user-centred approaches
+- Scale development and validation, including translation and adaptation
+- Conducting systematic reviews (PRISMA)
 - Data wrangling and visualisation using R
 - Basic statistical analysis on R, jamovi, SPSS
-- Designing and conducting semi-structured interviews, thematic analysis
-- Conducting systematic reviews (PRISMA)
-- Developing and validating scales
 - Exploratory factor analysis
 - Structural equation modelling, including ESEM and CFA
+- Designing and conducting semi-structured interviews
+- Analysis of qualitative data through thematic analysis
 
 ### Other skills
 - Mobile app development using Flutter (Dart)
@@ -43,7 +47,7 @@ redirect_from:
 - Communicating research findings to non-academic audiences
 - Social media management
 - Event management, including organising conferences
-- Languages: English (native), Japanese (native), Italian (proficient), Spanish (intermediate), French (beginner)
+- Languages: English (native), Japanese (native), Italian (proficient), Spanish (intermediate), French (beginner), German (beginner)
 
 <!-- Publications
 ======
@@ -65,9 +69,10 @@ Teaching
    -->
 ## Research funding
 ---
-- Arts and Humanities Research Council (UK Research and Innovation): Doctoral scholarship (2021-2024)
+- Society for Education, Music and Psychology Research (SEMPRE): Arnold Bentley New Initiatives Fund (2024; £2650) 
 - North West Consortium Doctoral Training Partnership: Targeted funding "Widening participation" (2022-2023; £5000)
 - North West Consortium Doctoral Training Partnership: Targeted funding "Widening participation" (2023-2024; £5000)
+- Arts and Humanities Research Council (UK Research and Innovation): Doctoral scholarship (2021-2024; ca.£65500)
 
 ## Volunteering and leadership
 ---
